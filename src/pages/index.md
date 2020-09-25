@@ -3,7 +3,7 @@ templateKey: index-page
 title: 竹入自動車
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 地域の皆さんに愛される車屋を目指して
 mainpitch:
   title: Why Kaldi
   description: >
