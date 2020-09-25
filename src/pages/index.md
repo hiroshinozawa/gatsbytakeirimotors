@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 竹入自動車
-image: /img/home-jumbotron.jpg
+title: 地域に愛される車屋を目指して
+image: /img/p9240026.jpg
 heading: Great coffee with a conscience
-subheading: 地域の皆さんに愛される車屋を目指して
+subheading: トータルカーライフサポート
 mainpitch:
   title: Why Kaldi
   description: >
